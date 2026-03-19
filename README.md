@@ -2,6 +2,8 @@
 
 **Vibe coding with specs, not chaos.**
 
+[中文文档](README.zh.md)
+
 A [Claude Code](https://claude.ai/code) skill that guides you through professional software design before you write a single line of code. Think first, build fast.
 
 ---
